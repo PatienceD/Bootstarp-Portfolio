@@ -1,2 +1,2 @@
-# Bootstarp-Portfolio
+# Bootstrap-Portfolio
 This is the bootstrap portfolio
