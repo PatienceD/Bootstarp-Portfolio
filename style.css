@@ -1,0 +1,57 @@
+.rounded {
+    height: 250px;
+    width: 250px;
+    margin: 10px 15px 10px 5px;
+}
+
+.blockquote {
+    font-size: 20px;
+    height: 500px;
+    line-height: 40px;
+    color: #777777;
+}
+
+.card-header {
+    font-size: 20px;
+    color: #4aaaa5;
+}
+
+.header {
+    border: 3px solid #4aaaa5;
+    margin: 5px 1090px 0px 196px;
+    padding: 10px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+
+}
+
+.nav-item {
+    color: #777777;
+}
+
+.flower {
+   color: #777777;
+}
+
+.animals {
+    color: #777777;
+}
+
+.container {
+    margin: 50px 180px 50px 180px;
+}
+
+
+.form {
+    margin: 5px;
+}
+
+.container-fluid {
+    width: 100%;
+}
+
+.row {
+    margin-left: 0px;
+}
